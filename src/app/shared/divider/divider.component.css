@@ -1,0 +1,4 @@
+:host:not(:first-of-type) {
+  dispaly: block;
+  margin-top: 20px;
+}
